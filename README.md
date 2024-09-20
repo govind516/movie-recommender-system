@@ -6,7 +6,7 @@ A Streamlit-based movie recommender system that suggests movies based on user pr
 
 ## Live Demo
 
-You can view the live application [here](https://movie-recommender-system-a5rm.onrender.com/).
+You can view the live application [here](https://movie-recommender-system-j87x.onrender.com/).
 
 ## Features
 
